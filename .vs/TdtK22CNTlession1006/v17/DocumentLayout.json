@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\COMPUTER\\Desktop\\06\\TdtK22CNTlession1006\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6FB9116-C28C-4E1B-8BE7-5EDD078078B5}|TdtK22CNTlession1006\\TdtK22CNTlession1006.csproj|c:\\users\\computer\\desktop\\06\\tdtk22cntlession1006\\tdtk22cntlession1006\\views\\shared\\_tdtlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6FB9116-C28C-4E1B-8BE7-5EDD078078B5}|TdtK22CNTlession1006\\TdtK22CNTlession1006.csproj|solutionrelative:tdtk22cntlession1006\\views\\shared\\_tdtlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6FB9116-C28C-4E1B-8BE7-5EDD078078B5}|TdtK22CNTlession1006\\TdtK22CNTlession1006.csproj|c:\\users\\computer\\desktop\\06\\tdtk22cntlession1006\\tdtk22cntlession1006\\views\\tdthome\\tdtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6FB9116-C28C-4E1B-8BE7-5EDD078078B5}|TdtK22CNTlession1006\\TdtK22CNTlession1006.csproj|solutionrelative:tdtk22cntlession1006\\views\\tdthome\\tdtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6FB9116-C28C-4E1B-8BE7-5EDD078078B5}|TdtK22CNTlession1006\\TdtK22CNTlession1006.csproj|c:\\users\\computer\\desktop\\06\\tdtk22cntlession1006\\tdtk22cntlession1006\\controllers\\tdthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6FB9116-C28C-4E1B-8BE7-5EDD078078B5}|TdtK22CNTlession1006\\TdtK22CNTlession1006.csproj|solutionrelative:tdtk22cntlession1006\\controllers\\tdthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6FB9116-C28C-4E1B-8BE7-5EDD078078B5}|TdtK22CNTlession1006\\TdtK22CNTlession1006.csproj|c:\\users\\computer\\desktop\\06\\tdtk22cntlession1006\\tdtk22cntlession1006\\views\\tdtaccounts\\tdtlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6FB9116-C28C-4E1B-8BE7-5EDD078078B5}|TdtK22CNTlession1006\\TdtK22CNTlession1006.csproj|solutionrelative:tdtk22cntlession1006\\views\\tdtaccounts\\tdtlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6FB9116-C28C-4E1B-8BE7-5EDD078078B5}|TdtK22CNTlession1006\\TdtK22CNTlession1006.csproj|c:\\users\\computer\\desktop\\06\\tdtk22cntlession1006\\tdtk22cntlession1006\\controllers\\tdtaccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6FB9116-C28C-4E1B-8BE7-5EDD078078B5}|TdtK22CNTlession1006\\TdtK22CNTlession1006.csproj|solutionrelative:tdtk22cntlession1006\\controllers\\tdtaccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6FB9116-C28C-4E1B-8BE7-5EDD078078B5}|TdtK22CNTlession1006\\TdtK22CNTlession1006.csproj|c:\\users\\computer\\desktop\\06\\tdtk22cntlession1006\\tdtk22cntlession1006\\views\\tdtaccounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6FB9116-C28C-4E1B-8BE7-5EDD078078B5}|TdtK22CNTlession1006\\TdtK22CNTlession1006.csproj|solutionrelative:tdtk22cntlession1006\\views\\tdtaccounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6FB9116-C28C-4E1B-8BE7-5EDD078078B5}|TdtK22CNTlession1006\\TdtK22CNTlession1006.csproj|c:\\users\\computer\\desktop\\06\\tdtk22cntlession1006\\tdtk22cntlession1006\\models\\tdtmodel2210900134.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{F6FB9116-C28C-4E1B-8BE7-5EDD078078B5}|TdtK22CNTlession1006\\TdtK22CNTlession1006.csproj|solutionrelative:tdtk22cntlession1006\\models\\tdtmodel2210900134.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6FB9116-C28C-4E1B-8BE7-5EDD078078B5}|TdtK22CNTlession1006\\TdtK22CNTlession1006.csproj|c:\\users\\computer\\desktop\\06\\tdtk22cntlession1006\\tdtk22cntlession1006\\views\\tdthome\\tdtabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6FB9116-C28C-4E1B-8BE7-5EDD078078B5}|TdtK22CNTlession1006\\TdtK22CNTlession1006.csproj|solutionrelative:tdtk22cntlession1006\\views\\tdthome\\tdtabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6FB9116-C28C-4E1B-8BE7-5EDD078078B5}|TdtK22CNTlession1006\\TdtK22CNTlession1006.csproj|c:\\users\\computer\\desktop\\06\\tdtk22cntlession1006\\tdtk22cntlession1006\\views\\tdthome\\tdtcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6FB9116-C28C-4E1B-8BE7-5EDD078078B5}|TdtK22CNTlession1006\\TdtK22CNTlession1006.csproj|solutionrelative:tdtk22cntlession1006\\views\\tdthome\\tdtcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6FB9116-C28C-4E1B-8BE7-5EDD078078B5}|TdtK22CNTlession1006\\TdtK22CNTlession1006.csproj|c:\\users\\computer\\desktop\\06\\tdtk22cntlession1006\\tdtk22cntlession1006\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6FB9116-C28C-4E1B-8BE7-5EDD078078B5}|TdtK22CNTlession1006\\TdtK22CNTlession1006.csproj|solutionrelative:tdtk22cntlession1006\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TdtIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\TdtK22CNTlession1006\\TdtK22CNTlession1006\\Views\\TdtHome\\TdtIndex.cshtml",
+              "RelativeDocumentMoniker": "TdtK22CNTlession1006\\Views\\TdtHome\\TdtIndex.cshtml",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\TdtK22CNTlession1006\\TdtK22CNTlession1006\\Views\\TdtHome\\TdtIndex.cshtml",
+              "RelativeToolTip": "TdtK22CNTlession1006\\Views\\TdtHome\\TdtIndex.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T03:14:22.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\TdtK22CNTlession1006\\TdtK22CNTlession1006\\Views\\TdtAccounts\\Create.cshtml",
+              "RelativeDocumentMoniker": "TdtK22CNTlession1006\\Views\\TdtAccounts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\TdtK22CNTlession1006\\TdtK22CNTlession1006\\Views\\TdtAccounts\\Create.cshtml",
+              "RelativeToolTip": "TdtK22CNTlession1006\\Views\\TdtAccounts\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T02:42:30.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TdtLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\TdtK22CNTlession1006\\TdtK22CNTlession1006\\Views\\TdtAccounts\\TdtLogin.cshtml",
+              "RelativeDocumentMoniker": "TdtK22CNTlession1006\\Views\\TdtAccounts\\TdtLogin.cshtml",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\TdtK22CNTlession1006\\TdtK22CNTlession1006\\Views\\TdtAccounts\\TdtLogin.cshtml",
+              "RelativeToolTip": "TdtK22CNTlession1006\\Views\\TdtAccounts\\TdtLogin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T02:41:33.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TdtAccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\TdtK22CNTlession1006\\TdtK22CNTlession1006\\Controllers\\TdtAccountsController.cs",
+              "RelativeDocumentMoniker": "TdtK22CNTlession1006\\Controllers\\TdtAccountsController.cs",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\TdtK22CNTlession1006\\TdtK22CNTlession1006\\Controllers\\TdtAccountsController.cs",
+              "RelativeToolTip": "TdtK22CNTlession1006\\Controllers\\TdtAccountsController.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAawIQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T02:39:10.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TdtModel2210900134.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\TdtK22CNTlession1006\\TdtK22CNTlession1006\\Models\\TdtModel2210900134.edmx",
+              "RelativeDocumentMoniker": "TdtK22CNTlession1006\\Models\\TdtModel2210900134.edmx",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\TdtK22CNTlession1006\\TdtK22CNTlession1006\\Models\\TdtModel2210900134.edmx [Diagram1]",
+              "RelativeToolTip": "TdtK22CNTlession1006\\Models\\TdtModel2210900134.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-03T02:35:37.414Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\TdtK22CNTlession1006\\TdtK22CNTlession1006\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "TdtK22CNTlession1006\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\TdtK22CNTlession1006\\TdtK22CNTlession1006\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "TdtK22CNTlession1006\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T02:19:32.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TdtContact.cshtml",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\TdtK22CNTlession1006\\TdtK22CNTlession1006\\Views\\TdtHome\\TdtContact.cshtml",
+              "RelativeDocumentMoniker": "TdtK22CNTlession1006\\Views\\TdtHome\\TdtContact.cshtml",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\TdtK22CNTlession1006\\TdtK22CNTlession1006\\Views\\TdtHome\\TdtContact.cshtml",
+              "RelativeToolTip": "TdtK22CNTlession1006\\Views\\TdtHome\\TdtContact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T02:18:54.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TdtAbout.cshtml",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\TdtK22CNTlession1006\\TdtK22CNTlession1006\\Views\\TdtHome\\TdtAbout.cshtml",
+              "RelativeDocumentMoniker": "TdtK22CNTlession1006\\Views\\TdtHome\\TdtAbout.cshtml",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\TdtK22CNTlession1006\\TdtK22CNTlession1006\\Views\\TdtHome\\TdtAbout.cshtml",
+              "RelativeToolTip": "TdtK22CNTlession1006\\Views\\TdtHome\\TdtAbout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T02:18:29.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TdtHomeController.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\TdtK22CNTlession1006\\TdtK22CNTlession1006\\Controllers\\TdtHomeController.cs",
+              "RelativeDocumentMoniker": "TdtK22CNTlession1006\\Controllers\\TdtHomeController.cs",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\TdtK22CNTlession1006\\TdtK22CNTlession1006\\Controllers\\TdtHomeController.cs",
+              "RelativeToolTip": "TdtK22CNTlession1006\\Controllers\\TdtHomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T02:16:53.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_TdtLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\TdtK22CNTlession1006\\TdtK22CNTlession1006\\Views\\Shared\\_TdtLayout.cshtml",
+              "RelativeDocumentMoniker": "TdtK22CNTlession1006\\Views\\Shared\\_TdtLayout.cshtml",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\TdtK22CNTlession1006\\TdtK22CNTlession1006\\Views\\Shared\\_TdtLayout.cshtml",
+              "RelativeToolTip": "TdtK22CNTlession1006\\Views\\Shared\\_TdtLayout.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwBcAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T02:15:23.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

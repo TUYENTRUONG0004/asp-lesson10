@@ -1,0 +1,64 @@
+﻿@model IEnumerable<TdtK22CNTlession1006.Models.TdtAccount>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_TdtLayout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TdtUserName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TdtPassword)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TdtFullName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TdtEmail)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TdtPhone)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TdtActive)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.TdtUserName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TdtPassword)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TdtFullName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TdtEmail)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TdtPhone)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TdtActive)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.TdtID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.TdtID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.TdtID })
+        </td>
+    </tr>
+}
+
+</table>

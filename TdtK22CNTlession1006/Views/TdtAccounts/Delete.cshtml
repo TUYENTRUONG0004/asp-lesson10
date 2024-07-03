@@ -1,0 +1,73 @@
+﻿@model TdtK22CNTlession1006.Models.TdtAccount
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_TdtLayout.cshtml";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>TdtAccount</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TdtUserName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TdtUserName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TdtPassword)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TdtPassword)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TdtFullName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TdtFullName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TdtEmail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TdtEmail)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TdtPhone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TdtPhone)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TdtActive)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TdtActive)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

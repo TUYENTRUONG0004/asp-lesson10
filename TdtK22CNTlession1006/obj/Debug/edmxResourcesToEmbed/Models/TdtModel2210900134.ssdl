@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TdtK22CNT3lession1006Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="TdtAccount">
+    <Key>
+      <PropertyRef Name="TdtID" />
+    </Key>
+    <Property Name="TdtID" Type="int" Nullable="false" />
+    <Property Name="TdtUserName" Type="nvarchar" MaxLength="50" />
+    <Property Name="TdtPassword" Type="nvarchar" MaxLength="50" />
+    <Property Name="TdtFullName" Type="nvarchar" MaxLength="50" />
+    <Property Name="TdtEmail" Type="nvarchar" MaxLength="50" />
+    <Property Name="TdtPhone" Type="nvarchar" MaxLength="50" />
+    <Property Name="TdtActive" Type="bit" />
+  </EntityType>
+  <EntityContainer Name="TdtK22CNT3lession1006ModelStoreContainer">
+    <EntitySet Name="TdtAccount" EntityType="Self.TdtAccount" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

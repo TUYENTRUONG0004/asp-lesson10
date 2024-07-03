@@ -1,0 +1,67 @@
+﻿@model TdtK22CNTlession1006.Models.TdtAccount
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_TdtLayout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>TdtAccount</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TdtUserName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TdtUserName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TdtPassword)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TdtPassword)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TdtFullName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TdtFullName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TdtEmail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TdtEmail)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TdtPhone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TdtPhone)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TdtActive)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TdtActive)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.TdtID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
